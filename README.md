@@ -4,6 +4,8 @@ Welcome to my GitHub! I’m building my career in **Data Analytics and Data Scie
 
 ## 👩‍💻 About Me
 - Certified in **Data Science**
+- Certified in **Data analysis**
+- 
 - Skilled in **SQL**, **Python**, and visualization tools (Power BI, Tableau)
 - Passionate about extracting insights from raw data and turning them into actionable strategies
 
