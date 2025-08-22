@@ -19,14 +19,14 @@ Welcome to my GitHub! I’m building my career in **Data Analytics and Data Scie
 - Interactive dashboards and reports
 
 ## 🚀 Projects (Coming Soon)
-- **Project 1:** Data Cleaning & Analysis with Python
-- **Project 2:** SQL Optimization & Complex Querying
-- **Project 3:** Interactive Sales Dashboard in Power BI
-- **Project 4:** Machine Learning Model for Predictive Analytics
+- **Project 1:** 
+- **Project 2:** 
+- **Project 3:** 
+- **Project 4:**
 
 ## 🛠 Tools & Technologies
 - Python | SQL | Power BI | Tableau | Excel | Jupyter Notebook
-- Git | GitHub | VS Code
+- Git | GitHub |
 
 ## 📫 Connect With Me
 - **LinkedIn:** [linkedin.com/in/nivethajagadeesan-971223230](https://www.linkedin.com/in/nivethajagadeesan-971223230)
